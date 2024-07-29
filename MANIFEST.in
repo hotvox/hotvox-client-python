@@ -2,4 +2,4 @@ include LICENSE
 include HISTORY.md
 include Containerfile
 graft tests
-graft hotvox_client_python
+graft hotvox_client

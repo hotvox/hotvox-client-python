@@ -1,4 +1,4 @@
-"""CLI interface for hotvox_client_python project.
+"""CLI interface for hotvox_client project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m hotvox_client_python` and `$ hotvox_client_python `.
+    `python -m hotvox_client` and `$ hotvox_client `.
 
     This is your program's entry point.
 

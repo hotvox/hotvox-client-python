@@ -17,9 +17,9 @@ echo "Description: $description";
 echo "Renaming project..."
 
 original_author="hotvox"
-original_name="hotvox_client_python"
+original_name="hotvox_client"
 original_urlname="hotvox-client-python"
-original_description="Awesome hotvox_client_python created by hotvox"
+original_description="Awesome hotvox_client created by hotvox"
 # for filename in $(find . -name "*.*") 
 for filename in $(git ls-files) 
 do
@@ -30,7 +30,7 @@ do
     echo "Renamed $filename"
 done
 
-mv hotvox_client_python $name
+mv hotvox_client $name
 
 # This command runs only once on GHA!
 rm -rf .github/template.yml

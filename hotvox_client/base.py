@@ -1,7 +1,7 @@
 """
-hotvox_client_python base module.
+hotvox_client base module.
 
-This is the principal module of the hotvox_client_python project.
+This is the principal module of the hotvox_client project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
@@ -14,4 +14,4 @@ and then choose `flask` as template.
 """
 
 # example constant variable
-NAME = "hotvox_client_python"
+NAME = "hotvox_client"

@@ -1,6 +1,6 @@
 # How to develop on this project
 
-hotvox_client_python welcomes contributions from the community.
+hotvox_client welcomes contributions from the community.
 
 **You need PYTHON3!**
 
